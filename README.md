@@ -1,11 +1,11 @@
-# Flix
+# Flixter Part 1
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 Submitted by: **Aren Ashikian**
 
 Time Spent: **3 hours**
 ---
 
-## Flix Part 1
+## Flixter Part 1
 
 ### User Stories
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. 
